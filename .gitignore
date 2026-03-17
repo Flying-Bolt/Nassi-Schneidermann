@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Nicht relevante Python-Skripte
+Bitvavo History.py
+import requests.py
+import requestsII.py
+
+# Logos (nur die genutzten behalten)
+myLogo.webp
+
+# Build-Artefakte
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+*:Zone.Identifier
+*:encryptable
+
+# IDE
+.vscode/
+.idea/
