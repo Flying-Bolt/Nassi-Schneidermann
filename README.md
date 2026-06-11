@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Dieses Repository ist umgezogen und wird auf GitHub nicht mehr gepflegt.**
+> Die aktuelle Version und die weitere Entwicklung gibt es nur noch auf Codeberg:
+> **https://codeberg.org/Flying-Bolt/Nassi-Schneidermann**
+
+---
+
 # Nassi-Shneidermann & Code-Tree Diagram Generator
 
 Zwei Desktop-Tools zur automatischen Visualisierung von Quellcode-Strukturen – als **grafisches Nassi-Shneidermann-Struktogramm** oder als **hierarchischer Code-Tree**. Unterstützt Python, C++, C# und Kotlin.
